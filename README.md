@@ -1,2 +1,2 @@
 # machine_learning
-machine learning python project 
+Various tuning packages for machine learning
